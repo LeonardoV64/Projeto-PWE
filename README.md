@@ -22,11 +22,11 @@ A partir deste ponto é possível acessar os segmentos de produtos ou categorias
 
 Neste segmento são listados os produtos disponíveis na loja, além de poder realizar todas as operações de CRUD.
 
-### Inserir Produto
+### Inserir ou Editar Produto
 
 ![addproduto](https://user-images.githubusercontent.com/75531993/146465451-84a64307-71ab-43bc-9f94-d3a9fabb8a61.jpeg)
 
-(Para possibilitar as operações necessárias para fazer upload de imagens algumas bibliotecas foram utilizadas, estas serão disponibilizadas no grupo da atividade)
+(Para possibilitar as operações necessárias para fazer upload de imagens algumas bibliotecas foram utilizadas)
 
 ## **Categorias**
 
@@ -41,5 +41,16 @@ Neste segmento são apresentadas as categorias de produtos oferecidas pela loja,
 ### Deletar Categoria
 
 ![delCategoria](https://user-images.githubusercontent.com/75531993/146466310-fcd07ced-e4fe-47a6-898d-ef5c4347e3b0.jpeg)
+
+## Links de bibliotecas e banco utilizados
+
+### Bibliotecas
+
+https://drive.google.com/drive/folders/11u21EUmgE1lDe0R36eWrM9lvSs3Fld0_?usp=sharing
+
+### Banco
+
+https://drive.google.com/file/d/1_r0yYtsibtjeVELLCmvzl1jMHzwbOFDs/view?usp=sharing
+
 
 
